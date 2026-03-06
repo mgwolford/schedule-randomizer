@@ -430,9 +430,10 @@ h3 strong,
 
 .screen-results p.result-slot {
   color: #000;
+  font-family: "caveat-brush", cursive;
+  font-size: 24px;
+  line-height: 24px;
 }
-
-
 
 .screen-results a.btn-content {
   display: inline-block;
